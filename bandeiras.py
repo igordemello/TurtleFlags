@@ -1,25 +1,3 @@
-"""
-Igor Oliveira de Mello - 2512779
-
-Olá, fiz as seguintes bandeiras:
-Japão - Fácil - 25xp
-Suíça - Fácil - 25xp
-E.A.U.- Média - 50xp
-Bahamas - Média - 50xp
-Jordania - Média - 50xp
-Laos - Média - 50xp
-Sudão - Média - 50xp
-Niger - Média - 50xp
-São Vicente e Granadinas - Difícil - 75xp
-Estados Unidos - Difícil - 75xp
-
-Totalizando 500xp.
-
-Para o desafio tentei fazer a bandeira de Cambodia. Por mais que não tenha ficado perfeito deu bastante trabalho e não foi feito um desenho em formato tradicional com toda certeza, espero que seja considerado para a pontuação extra :).
-A segunda parte de implementar uma bandeira usando uma função diferente para cada forma foi feita na bandeira da Suíça, no qual eu usei uma função para o retângulo e outra para a cruz, ambos passando a cor como parâmetro.
-
-"""
-
 from turtle import *
 import time
 
